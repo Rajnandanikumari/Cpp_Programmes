@@ -1,5 +1,4 @@
-// Online C++ compiler to run C++ program online
-//WAP to check whether the entered character is vowel or not.
+// show the result according to desire number enter by user //
 #include<iostream>
 using namespace std;
 void show()
